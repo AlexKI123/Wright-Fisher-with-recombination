@@ -1,1 +1,1 @@
-# Wright-Fisher-with-recombination
+# Wright-Fisher with recombination
