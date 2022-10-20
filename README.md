@@ -10,3 +10,5 @@ numpy 1.19.2<br/>
 matplotlib 3.3.4<br/>
 scipy 1.5.2<br/>
 networkx 2.5<br/>
+
+Contact: Alexander Klug alex.klug@env.ethz.ch
