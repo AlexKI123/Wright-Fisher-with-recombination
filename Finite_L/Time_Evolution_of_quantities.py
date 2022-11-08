@@ -506,8 +506,6 @@ else:
                    fontsize=11
                    )
 
-        # Adjust the scaling factor to fit your legend text completely outside the plot
-        # (smaller value results in more space being made for the legend)
 
         #plt.subplots_adjust(top=0.92)
         plt.subplots_adjust(bottom=0.13)
