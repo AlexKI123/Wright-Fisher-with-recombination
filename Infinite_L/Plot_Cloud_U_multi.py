@@ -48,29 +48,6 @@ for i in range(len(plist)):
 # 15 novel fraction
 
 
-#rate, rate2, rate_viable, rate2_viable, rate_fixed, avg_dist, max_dist, dist_ge, dist_viable_ge, seg_mut
-
-#0 r
-#1 U
-#2 rate
-#3 rate2
-#4 rate_viable
-#5 rate2_viable
-#6 rate_fixed
-#7 AvgD
-#8 MaxD
-#9 dist_ge
-#10 dist_viable_ge
-#11 seg_mut
-#12 mean_F
-#13 viable fraction
-#14 lethal fraction
-#15 novel fraction
-
-
-
-
-
 
 import matplotlib.gridspec as gridspec
 #fig = plt.figure(figsize=(4.3,8))
@@ -159,10 +136,6 @@ fig.subplots_adjust(bottom=0.03)
 
 
 #ax7.legend(loc='upper center', bbox_to_anchor=(0.5, -0.5), markerscale=4., fancybox=True, shadow=False, ncol=2, fontsize=13)
-
-
-
-
 ##fig.subplots_adjust(left=0.05)
 #fig.subplots_adjust(right=0.98)
 #fig.subplots_adjust(top=0.97)
@@ -171,7 +144,6 @@ fig.subplots_adjust(bottom=0.03)
 
 
 fig.align_labels()
-#plt.savefig("CrossSectionU_v3.pdf")
 
 
 plt.savefig('Poisson_ISM_CrossSection_r1.pdf')
