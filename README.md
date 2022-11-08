@@ -1,8 +1,7 @@
 # Wright-Fisher with recombination
 
 
-This repository contains code used for the analysis in the following paper:  
-https://www.biorxiv.org/content/10.1101/2022.01.05.475123v3  
+This repository contains the code to reproduce the analysis in the manuscript "Conflicting effects of recombination on the evolvability and robustness in neutrally evolving populations".
 
 Code works with python 3.6.13 and<br/>
 numba 0.53.1<br/>
