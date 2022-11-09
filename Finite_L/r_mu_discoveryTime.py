@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/klug/PycharmProjects/Finite_Population_Clean_TD/scr")
+sys.path.append("/.../scr")
 import numpy
 import timeit
 import numba as nb
